@@ -1,0 +1,6 @@
+{
+  "name": "RG Consultoría Ambiental",
+  "description": "Brindamos servicios especializados en instrumentos de gestión ambiental, evaluación de riesgos originados por fenómenos naturales, para garantizar la viabilidad y sostenibilidad de tus proyectos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
